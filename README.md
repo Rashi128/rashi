@@ -43,7 +43,6 @@ simulator
 3. Experimental Design 
 • Test Users: 10 internal testers (team members and classmates). 
 • Simulated Products: 10 SKU samples with diverse sales behavior. 
-Page | 4 
  
 • Forecast Horizon: 7-day and 30-day ahead predictions. 
 • IoT Simulation: CSV feeds generated every 5 seconds mimicking stock 
@@ -72,8 +71,7 @@ blockchain simulation.
 validation. 
 • Integration Layer: Interfaces between chatbot, forecast engine, and data 
 feeds. 
- 
-Page | 5 
+  
  
 6. Extended Testing Results 
 Test Scenario Result 
@@ -101,7 +99,6 @@ The optimized system demonstrates:
 • Resilience in handling real-time IoT data. 
 • Robust security and role-based access. 
 • An intuitive multilingual chatbot aiding supply chain workers. 
-Page | 6 
  
 Recommended Enhancements: 
 • Transition from CSV/JSON to real-time cloud databases (Firebase, 
